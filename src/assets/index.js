@@ -1,8 +1,7 @@
 import logo from "./logo.svg";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import frontend from "./frontend.png";
+import devops from "./devops.png";
+import webDevelopment from "./webDevelopment.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -29,13 +28,15 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import aqsLogo from "./aqs-logo.png";
+import xtraCareLogo from "./xtra-care-it-logo.png";
+import datability from "./datability-logo.png"
 
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
+  frontend,
+  devops,
+  webDevelopment,
   github,
   menu,
   close,
@@ -59,4 +60,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  aqsLogo,
+  xtraCareLogo,
+  datability
 };
